@@ -5,16 +5,16 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/onysakura/news-daily.git"
+        "url": "git+https://github.com/ttsths/news-daily.git"
     },
     "type": "module",
     "keywords": [],
     "author": "onysakura",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/onysakura/news-daily/issues"
+        "url": "https://github.com/ttsths/news-daily/issues"
     },
-    "homepage": "https://github.com/onysakura/news-daily#readme",
+    "homepage": "https://github.com/ttsths/news-daily#readme",
     "scripts": {
         "build": "tsc --build",
         "ithome": "node src/actions/ithome-daily.js"
